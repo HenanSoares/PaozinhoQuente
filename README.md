@@ -51,7 +51,7 @@ Após a instalação é ncessário habilitar conexão com internet e o GPS.
 ## <a name="autores"></a> Autores
 
 * **Henan Soares Ferreira** - *Desenvolvedor/Analista de Requisitos* - <hsferreira@gmail.com>
-* **Wesley Moreira Pereira** - *Desenvolvedor/Analista de Requisitos* - <wemoreno10@gmail.com>
+* **Weslhey Moreira Pereira** - *Desenvolvedor/Analista de Requisitos* - <wemoreno10@gmail.com>
 
 
 ## <a name="orientador"></a> Orientador
