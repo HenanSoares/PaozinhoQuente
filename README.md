@@ -13,11 +13,13 @@ Aplicativo que auxilie o consumidor na localização de padarias, além de infor
 
 ## <a name="instalacao"></a> Instalação
 
-Baixar o arquivo APK "nome_do_aplicativo" que está em (APK)
+Baixar o arquivo APK "nome_do_aplicativo" que está em na pasta (APK) e transferir para seu celular android.
 
-Habilitar fontes desconhecidas do android:
+No dispositivo habilitar fontes desconhecidas do android, e seguir com a isntalação normalmente:
 
 * **Configurações** > **Segurança** > **Fontes desconhecidas** - Permitir a instalação de aplicativos que não são do android Market
+
+Após a instalação é ncessário habilitar conexão com internet e habilitar o GPS, para utilizar o palicativo.
 
 
 ## <a name="prototipos"></a> Protótipos
