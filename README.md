@@ -19,13 +19,13 @@ Abilitar fontes desconhecidas do android:
 
 ## <a name="prototipos"></a> Protótipos
 
-![Image1](Documentation/IMG/01-Inicial.png)
+![Image1](Documentation/IMG/01-Inicial.jpg)
 
-![Image2](Documentation/IMG/02-Informacoes.png)
+![Image2](Documentation/IMG/02-Informacoes.jpg)
 
-![Image3](Documentation/IMG/03-Favoritos.png)
+![Image3](Documentation/IMG/03-Favoritos.jpg)
 
-![Image4](Documentation/IMG/04-Configuracao.png)
+![Image4](Documentation/IMG/04-Configuracao.jpg)
 
 ![Image5](Documentation/IMG/05-Logar.png)
 
