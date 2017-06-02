@@ -13,6 +13,8 @@ Aplicativo que auxilie o consumidor na localização de padarias, além de infor
 
 ## <a name="instalacao"></a> Instalação
 
+Baixar o arquivo APK "nome_do_aplicativo" que está em (APK)
+
 Habilitar fontes desconhecidas do android:
 
 * **Configurações** > **Segurança** > **Fontes desconhecidas** - Permitir a instalação de aplicativos que não são do android Market
