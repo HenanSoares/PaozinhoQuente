@@ -19,7 +19,7 @@ No dispositivo habilitar fontes desconhecidas do android, e seguir com a isntala
 
 * **Configurações** > **Segurança** > **Fontes desconhecidas** - Permitir a instalação de aplicativos que não são do android Market
 
-Após a instalação é ncessário habilitar conexão com internet e habilitar o GPS, para utilizar o palicativo.
+Após a instalação é ncessário habilitar conexão com internet e o GPS.
 
 
 ## <a name="prototipos"></a> Protótipos
