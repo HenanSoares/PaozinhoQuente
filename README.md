@@ -15,8 +15,7 @@ Aplicativo que auxilie o consumidor na localização de padarias, além de infor
 
 Habilitar fontes desconhecidas do android:
 
-* **Configurações** > **Segurança** > **Fontes desconhecidas**
-    Permitir a instalação de aplicativos que não são do android Market
+* **Configurações** > **Segurança** > **Fontes desconhecidas** - Permitir a instalação de aplicativos que não são do android Market
 
 
 ## <a name="prototipos"></a> Protótipos
